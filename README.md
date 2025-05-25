@@ -47,7 +47,7 @@
 - 📊 **Simulador de postulaciones con PAES - Web**  
   Ingreso de puntajes PAES para verificar las carreras a las que se puede postular, filtrando por campus y área.
 
-- 🛠️ **Sistema espacionamiento (trabajo académico grupal) - Mobile**  
+- 🛠️ **Sistema estacionamiento (trabajo académico grupal) - Mobile**  
   Aplicación móvil para realizar y gestionar reservas de estacionamiento.
 
 - 🎮 **Juego memorice "Logo Match Game" - Web**  

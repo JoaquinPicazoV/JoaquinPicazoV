@@ -35,7 +35,7 @@ Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad of
 ---
 ### 🎓 Certificaciones ###
 <a href="https://ine.com/certifications/ejpt/">
-  <img src="" alt="eJPTv2 Logo" width="120"/>
+  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/eJPT.png" alt="eJPTv2" width="120"/>
 </a>
 
 
@@ -44,16 +44,16 @@ Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad of
 
 ### 📚 Cursos  ###
 <a href="https://www.credly.com/badges/fee19871-ce37-4cb7-a7ec-f65b80acb520/public_url">
-  <img src="" alt="eJPTv2 Logo" width="120"/>
+  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/NetworkTechnician.png" alt="NetworkTechnicianPathCisco" width="120"/>
 </a>
 <a href="https://www.credly.com/badges/5a3702c2-a9cc-46b0-be92-dea565ef0a4e/public_url">
-  <img src="" alt="eJPTv2 Logo" width="120"/>
+  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/EthicalHacker.png" alt="EthicalHackerCisco" width="120"/>
 </a>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WH5JF5YO0X.pdf">
-  <img src="" alt="eJPTv2 Logo" width="165"/>
+  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/JrPenTest.png" alt="JrPentesterTHM" width="165"/>
 </a>
 <a href="https://www.credly.com/badges/1f6cea4e-106d-40b0-970a-5222a8078e64/public_url">
-  <img src="" alt="eJPTv2 Logo" width="120"/>
+  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/IntroCyber.png" alt="IntroCyberCisco" width="120"/>
 </a>
 
 ---

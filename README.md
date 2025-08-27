@@ -34,7 +34,7 @@ Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad of
 
 ---
 ### 🎓 Certificaciones ###
-<a href="https://ine.com/certifications/ejpt/">
+<a href="https://certs.ine.com/f7a9d210-9f4d-453a-9595-6cf0bb5b741e#acc.ZR2uXH8M">
   <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/eJPT.png" alt="eJPTv2" width="120"/>
 </a>
 
@@ -43,10 +43,10 @@ Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad of
 ---
 
 ### 📚 Cursos  ###
-<a href="https://www.credly.com/badges/fee19871-ce37-4cb7-a7ec-f65b80acb520/public_url">
+<a href="https://www.credly.com/badges/5a3702c2-a9cc-46b0-be92-dea565ef0a4e/public_url">
   <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/NetworkTechnician.png" alt="NetworkTechnicianPathCisco" width="120"/>
 </a>
-<a href="https://www.credly.com/badges/5a3702c2-a9cc-46b0-be92-dea565ef0a4e/public_url">
+<a href="https://www.credly.com/badges/fee19871-ce37-4cb7-a7ec-f65b80acb520/public_url">
   <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/EthicalHacker.png" alt="EthicalHackerCisco" width="120"/>
 </a>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WH5JF5YO0X.pdf">

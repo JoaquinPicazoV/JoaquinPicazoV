@@ -92,5 +92,5 @@ Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad of
 ## 🔗 Enlaces de Interés ##
 
 - 🌐 [Portafolio Personal](https://portafolio-steel-eta.vercel.app/)
-- 💼 [LinkedIn](www.linkedin.com/in/joaquín-picazo-velasco-aa4458380)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaquín-picazo-velasco-aa4458380)
 

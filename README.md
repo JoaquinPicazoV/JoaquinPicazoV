@@ -85,4 +85,12 @@ Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad of
 - 👤 **Portafolio - Web**  
   Portafolio personal desplegado con Vercel.
 
-- ➕ **Y otros proyectos más...**  
+- ➕ **Y otros proyectos más...**
+
+---
+
+## 🔗 Enlaces de Interés ##
+
+- 🌐 [Portafolio Personal](https://portafolio-steel-eta.vercel.app/)
+- 💼 [LinkedIn](www.linkedin.com/in/joaquín-picazo-velasco-aa4458380)
+

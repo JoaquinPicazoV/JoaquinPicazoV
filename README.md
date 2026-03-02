@@ -23,13 +23,13 @@ Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad of
 ---
 ### 🎓 Certificaciones ###
 <a href="https://certs.ine.com/f7a9d210-9f4d-453a-9595-6cf0bb5b741e#acc.ZR2uXH8M">
-  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/eJPT.png" alt="eJPTv2" width="140"/>
+  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/eJPT.png" alt="eJPTv2" width="120"/>
 </a>
 <a href="https://www.skillfront.com/Badges/87943150736825">
-  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/ISO27001ASSOCIATE.png" alt="ISO27001ASSOCIATE" width="120"/>
+  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/ISO27001ASSOCIATE.png" alt="ISO27001ASSOCIATE" width="180"/>
 </a>
 <a href="">
- <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/VMDR.png" alt="VMDR" width="140"/>
+ <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/VMDR.png" alt="VMDR" width="180"/>
 </a>
 
 

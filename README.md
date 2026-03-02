@@ -51,6 +51,12 @@ Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad of
 <a href="https://www.credly.com/badges/1f6cea4e-106d-40b0-970a-5222a8078e64/public_url">
   <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/IntroCyber.png" alt="IntroCyberCisco" width="120"/>
 </a>
+<a href="https://www.credly.com/badges/6b6fc3e1-1818-4ddb-8f84-a40e666a589e/public_url">
+  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/API10.png" alt="API10OWASP" width="120"/>
+</a>
+<a href="https://www.credly.com/badges/77abb44f-7634-4f4b-b45b-b45f3640c6a5/public_url">
+  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/JCACP.png" alt="JuniorCybersecAnalystPATH" width="120"/>
+</a>
 
 ---
 

@@ -1,6 +1,6 @@
 <h1 align="center">Joaquín Picazo</h1>
 <p align="center">
-  Estudiante de quinto año de Ingeniería Civil en Informática - Universidad de Los Lagos
+  Estudiante de último semestre de Ingeniería Civil en Informática
 </p>
 
 ---

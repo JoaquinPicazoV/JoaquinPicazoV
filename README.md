@@ -9,18 +9,6 @@
 Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad ofensiva y defensiva, certificado eJPTv2. Practico pentesting en entornos legales y operaciones SOC en LetsDefend y TryHackMe. Domino herramientas clave y aspiro a roles de ciberseguridad.
 
 ---
-
-## 🛠️ Tecnologías y Herramientas ##
-
-### 💻 Desarrollo ###
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
-
----
 ### 🎓 Certificaciones ###
 <a href="https://certs.ine.com/f7a9d210-9f4d-453a-9595-6cf0bb5b741e#acc.ZR2uXH8M">
   <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/eJPT.png" alt="eJPTv2" width="120"/>
@@ -31,10 +19,6 @@ Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad of
 <a href="">
  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/VMDR.png" alt="VMDR" width="180"/>
 </a>
-
-
-
-
 
 ---
 
@@ -72,20 +56,11 @@ Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad of
 - 🧪 **Excel técnicas y vulnerabilidades máquinas para eJPTv2**  
   Listado de máquinas para eJPTv2 de forma detallada: dificultad, sistema operativo, técnicas y vulnerabilidades.
 
-- 📊 **Simulador de postulaciones con PAES - Web**  
-  Ingreso de puntajes PAES para verificar las carreras a las que se puede postular, filtrando por campus y área.
+- 🛡️ **Writeups de simulaciones de SOC**
+  Análisis y resolución de incidentes (Writeups) en entornos SOC simulados (LetsDefend, TryHackMe), utilizando SIEM (Splunk, Elastic) y herramientas de análisis como ANY.RUN, Whois, AbuseIPDB, VirusTotal, CyberChef, entre otros.
 
-- 🛠️ **Sistema estacionamiento (trabajo académico grupal) - Mobile**  
-  Aplicación móvil para realizar y gestionar reservas de estacionamiento.
-
-- 🎮 **Juego memorice "Logo Match Game" - Web**  
-  Juego de memorice con logos de lenguajes de programación.
-  
-- 🎮 **Juego memorice "Spaceduo" - Mobile**  
-  Dashboards que procesan y visualizan tráfico anómalo en tiempo real.
-  
-- 👤 **Portafolio - Web**  
-  Portafolio personal desplegado con Vercel.
+- 🚨 **Analizador OSINT de Correos Comprometidos**
+  Desarrollo/Uso de herramientas de OSINT (API de XposedOrNot) para la investigación de compromisos de correo electrónico, permitiendo identificar brechas de seguridad, filtraciones de credenciales (passwords) o IP, y posible URL de reportes oficiales respecto al incidente.
 
 - ➕ **Y otros proyectos más...**
 

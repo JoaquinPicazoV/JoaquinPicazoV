@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 Sobre mí ###
-Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad ofensiva, certificado eJPTv2. Practico pentesting en entornos legales como TryHackMe y DockerLabs, domino herramientas clave y aspiro a roles de ciberseguridad, a futuro me gustaría aprender pentesting en Active Directory y pivoting con Chisel/Socat para realizar certificaciones más avanzadas como eCPPT.
+Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad ofensiva y defensiva, certificado eJPTv2. Practico pentesting en entornos legales y operaciones SOC en LetsDefend y TryHackMe. Domino herramientas clave y aspiro a roles de ciberseguridad.
 
 ---
 
@@ -20,23 +20,16 @@ Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad of
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
 
-### 🧰 Ciberseguridad Ofensiva ###
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-008080?style=flat&logo=nmap&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-222222?style=flat)
-![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-4E4E4E?logo=metasploit&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=flat&logo=linux&logoColor=white)
-![Burp Suite (Básico)](https://img.shields.io/badge/Burp_Suite-BASIC-F2673B?style=flat&logo=burpsuite&logoColor=white)
-![Python (Aprendiendo)](https://img.shields.io/badge/Python-Aprendiendo-3776AB?logo=python&logoColor=white)
-
-![Bash (Aprendiendo)](https://img.shields.io/badge/Bash-Aprendiendo-4EAA25?logo=gnubash&logoColor=white)
-
 ---
 ### 🎓 Certificaciones ###
 <a href="https://certs.ine.com/f7a9d210-9f4d-453a-9595-6cf0bb5b741e#acc.ZR2uXH8M">
   <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/eJPT.png" alt="eJPTv2" width="120"/>
 </a>
+<a href="https://www.skillfront.com/Badges/87943150736825">
+  <img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/ISO27001ASSOCIATE.png" alt="ISO27001ASSOCIATE" width="120"/>
+</a>
+<img src="https://github.com/JoaquinPicazoV/JoaquinPicazoV/blob/main/VMDR.png" alt="VMDR" width="120"/>
+
 
 
 

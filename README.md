@@ -57,10 +57,10 @@ Estudiante de Ingeniería Civil en Informática con enfoque en ciberseguridad of
   Listado de máquinas para eJPTv2 de forma detallada: dificultad, sistema operativo, técnicas y vulnerabilidades.
 
 - 🛡️ **Writeups de simulaciones de SOC**  
-
 Análisis y resolución de incidentes (Writeups) en entornos SOC simulados (LetsDefend, TryHackMe), utilizando SIEM (Splunk, Elastic) y herramientas de análisis como ANY.RUN, Whois, AbuseIPDB, VirusTotal, CyberChef, entre otros.
 
-- 🚨 **Analizador OSINT de Correos Comprometidos**  Desarrollo/Uso de herramientas de OSINT (API de XposedOrNot) para la investigación de compromisos de correo electrónico, permitiendo identificar brechas de seguridad, filtraciones de credenciales (passwords) o IP, y posible URL de reportes oficiales respecto al incidente.
+- 🚨 **Analizador OSINT de Correos Comprometidos**  
+  Desarrollo/Uso de herramientas de OSINT (API de XposedOrNot) para la investigación de compromisos de correo electrónico, permitiendo identificar brechas de seguridad, filtraciones de credenciales (passwords) o IP, y posible URL de reportes oficiales respecto al incidente.
 
 - ➕ **Y otros proyectos más...**
 
